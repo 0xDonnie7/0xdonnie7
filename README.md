@@ -8,8 +8,8 @@ I enjoy drawing system diagrams, building useful tools, and sharing my newfound 
 
 ## 💡Interests
 
-◦ 🖥 Distributed Systems
-◦ ⛓ Blockchain Technology
-◦ 🛠 Onchain Tooling
+◦ 🖥 Distributed Systems  
+◦ ⛓ Blockchain Technology  
+◦ 🛠 Onchain Tooling  
 
-## Languages & Frameworks
+## Languages, Frameworks & Tools
