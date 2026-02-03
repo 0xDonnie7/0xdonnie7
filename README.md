@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there curious fellow, I'm Dada
 
-<!--
-**0xDonnie7/0xdonnie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In a bid to learn new things and document knowledge, I found myself here. I'm a software engineer and technical writer. 
 
-Here are some ideas to get you started:
+I enjoy drawing system diagrams, building useful tools, and sharing my newfound knowledge through articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xdonnie7) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doyindada234@gmail.com)
+
+## 💡Interests
+
+◦ 🖥 Distributed Systems
+◦ ⛓ Blockchain Technology
+◦ 🛠 Onchain Tooling
+
+## Languages & Frameworks
