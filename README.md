@@ -4,6 +4,7 @@ In a bid to learn new things and document knowledge, I found myself here. I'm a 
 
 I enjoy drawing system diagrams, building useful tools, and sharing my newfound knowledge through articles.
 
+** Contact me **
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xdonnie7) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doyindada234@gmail.com)
 
 ## 💡Interests
@@ -27,12 +28,6 @@ I enjoy drawing system diagrams, building useful tools, and sharing my newfound 
 [![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 
-## 📊 Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xDonnie7&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDonnie7&layout=compact&theme=dark) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xDonnie7&theme=dark)
-![Visitor Count](https://profile-counter.glitch.me/0xDonnie7/count.svg?style=flat)
 
 
 
