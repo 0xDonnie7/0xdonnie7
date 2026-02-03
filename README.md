@@ -29,9 +29,9 @@ I enjoy drawing system diagrams, building useful tools, and sharing my newfound 
 
 ## 📊 Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyimfafafa&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doyimfafafa&layout=compact&theme=dark) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doyimfafafa&theme=dark)
-![Visitor Count](https://profile-counter.glitch.me/doyimfafafa/count.svg?style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xDonnie7&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDonnie7&layout=compact&theme=dark) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xDonnie7&theme=dark)
+![Visitor Count](https://profile-counter.glitch.me/0xDonnie7/count.svg?style=flat)
 
 
