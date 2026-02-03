@@ -1,4 +1,4 @@
-## Hi there curious fellow, I'm Dada
+## ⚡ Hi there curious fellow, I'm Dada
 
 In a bid to learn new things and document knowledge, I found myself here. I'm a software engineer and technical writer. 
 
@@ -26,4 +26,12 @@ I enjoy drawing system diagrams, building useful tools, and sharing my newfound 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) <br>
 [![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+
+## 📊 Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyimfafafa&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doyimfafafa&layout=compact&theme=dark) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doyimfafafa&theme=dark)
+![Visitor Count](https://profile-counter.glitch.me/doyimfafafa/count.svg?style=flat)
+
 
